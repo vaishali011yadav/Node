@@ -1,4 +1,4 @@
-#Build WCAT commands
+# Build WCAT commands
 
 
 It is used to display or make a copy content of one or more files in the terminal
