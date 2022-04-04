@@ -1,4 +1,4 @@
-Build WCAT commands
+#Build WCAT commands
 It is used to display or make a copy content of one or more files in the terminal
 
 General Syntax: node wcat.js [options] [filepaths] option to remove big line break (-s) option to add line number to non empty lines (-b) option to add line numbers to all lines (-n)
